@@ -1,0 +1,33 @@
+kaggle
+google-adk
+google-genai
+vertexai
+ipython
+jupyter-server
+requests
+mcp
+
+
+# # Kaggle API (for kaggle_secrets)
+# kaggle==1.6.14
+
+# # Google ADK (experimental SDK for agents/tools)
+# google-adk==0.0.7
+
+# # Google Generative AI SDK
+# google-genai==0.5.0
+
+# # Vertex AI SDK
+# vertexai==1.64.0
+
+# # IPython (for display utilities)
+# ipython==8.27.0
+
+# # Jupyter Server (for list_running_servers)
+# jupyter-server==2.14.2
+
+# # Requests (HTTP client)
+# requests==2.32.3
+
+# # MCP (Message Control Protocol utilities)
+# mcp==0.3.0
