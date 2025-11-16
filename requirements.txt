@@ -1,11 +1,29 @@
+# Data Science & Machine Learning
+scikit-learn
+pandas
+numpy
+keras
+seaborn
 kaggle
-google-adk
+
+# AI / LLM & LangChain Ecosystem
 google-genai
 vertexai
+google-api-core
+langchain-core
+langchain-google-genai
+langgraph
+chromadb
+
+# Development & Utilities
+requests
+tqdm
+typing-extensions
+mcp
+
+# Interactive / Notebook Environment
 ipython
 jupyter-server
-requests
-mcp
 
 
 # # Kaggle API (for kaggle_secrets)
