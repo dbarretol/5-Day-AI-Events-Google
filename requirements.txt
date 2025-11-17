@@ -1,3 +1,5 @@
+python-dotenv
+
 # Data Science & Machine Learning
 scikit-learn
 pandas
@@ -23,6 +25,7 @@ mcp
 
 # Interactive / Notebook Environment
 ipython
+ipykernel
 jupyter-server
 
 
